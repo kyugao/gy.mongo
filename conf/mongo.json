@@ -1,0 +1,5 @@
+{
+  "DBUrl":"mongodb://username:123456@127.0.0.1:27017/default_schema",
+  "DBName":"default_schema",
+  "DBConnPoolSize":10
+}
